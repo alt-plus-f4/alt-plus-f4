@@ -53,7 +53,7 @@
 <p align="center">
   I'm a high-school student living in Sofia, Bulgaria. I love to read, enjoy music, and explore nature outdoors.
   <br>
-  <a href="https://asenov.dev">Check out my Portfolio page</a>
+  <a href="https://assenov.me">Check out my Portfolio page</a>
   <br>
   <a>Write to me: valentin.p.asenov.2020@elsys-bg.org</a>
 </p>
