@@ -20,15 +20,15 @@
 <h2 align="center">💻 I'm Currently Working On</h2>
 
 <p align="center">
-  Dirigible project for managing vacations<br>
-  A couple other projects
+  Website for organizing game tournaments<br>
+  ESEA copy
 </p>
 
 <h2 align="center">Check out my GitHub repository:</h2>
 
 <p align="center">
-  <a href="https://github.com/alt-plus-f4/codbex-internship">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alt-plus-f4&repo=codbex-internship" alt="GitHub Stats" />
+  <a href="https://github.com/alt-plus-f4/tourler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alt-plus-f4&repo=tourler" alt="GitHub Stats" />
   </a>
 </p>
 
