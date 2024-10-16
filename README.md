@@ -27,8 +27,8 @@
 <h2 align="center">Check out my GitHub repository:</h2>
 
 <p align="center">
-  <a href="https://github.com/alt-plus-f4/tourler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alt-plus-f4&repo=tourler" alt="GitHub Stats" />
+  <a href="https://github.com/alt-plus-f4/tournler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alt-plus-f4&repo=tournler" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
   <br>
   <a href="https://assenov.me">Check out my Portfolio page</a>
   <br>
-  <a>Write to me: valentin.p.asenov.2020@elsys-bg.org</a>
+  <a>Write to me: valentin@asenov.dev</a>
 </p>
 
 <h2 align="center">📫 How to reach me:</h2>
