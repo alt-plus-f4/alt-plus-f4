@@ -1,33 +1,30 @@
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
   <br>
   <h1 align="center">Hi, I'm Valentin</h1>
+  <p align="center">
+    <a href="https://github.com/alt-plus-f4?tab=followers">
+      <img src="https://img.shields.io/github/followers/alt-plus-f4.svg?style=social&label=Follow" alt="GitHub followers" />
+    </a>
+  </p>
 </p>
+
+ <img src="https://github.com/user-attachments/assets/5fb09a87-f9ee-416b-853e-739d5f6079a6" alt="profile gif" width="100%" height="500px">
 
 ![](https://komarev.com/ghpvc/?username=alt-plus-f4&style=for-the-badge)
 
 <p align="center">
-  <a href="https://github.com/alt-plus-f4?tab=followers">
-    <img src="https://img.shields.io/github/followers/alt-plus-f4.svg?style=social&label=Follow" alt="GitHub followers" />
-  </a>
-</p>
-
-<p align="center">
-  I'm Valentin!<br>
+  I'm a bulgarian programmer<br>
   <i>Currently:</i> Student at Technological school "Electronic systems" associated with the Technical University of Sofia
 </p>
 
-<h2 align="center">💻 I'm Currently Working On</h2>
+<h2 align="center">💻 Currently Working On</h2>
 
 <p align="center">
   Website for organizing game tournaments<br>
   ESEA copy
 </p>
-
-<h2 align="center">Check out my GitHub repository:</h2>
-
 <p align="center">
   <a href="https://github.com/alt-plus-f4/tournler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alt-plus-f4&repo=tournler" alt="GitHub Stats" />
@@ -67,4 +64,4 @@
   <a href="mailto:ConnectWith@valentin.p.asenov.2020@elsys-bg.org"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </p>
 
-![](https://hit.yhype.me/github/profile?user_id=79216061)****
+![](https://hit.yhype.me/github/profile?user_id=79216061)
