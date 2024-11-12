@@ -6,6 +6,8 @@
   <h1 align="center">Hi, I'm Valentin</h1>
 </p>
 
+![](https://komarev.com/ghpvc/?username=alt-plus-f4&style=for-the-badge)
+
 <p align="center">
   <a href="https://github.com/alt-plus-f4?tab=followers">
     <img src="https://img.shields.io/github/followers/alt-plus-f4.svg?style=social&label=Follow" alt="GitHub followers" />
@@ -64,3 +66,5 @@
   <a href="https://www.linkedin.com/in/valentin-assenov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="mailto:ConnectWith@valentin.p.asenov.2020@elsys-bg.org"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=79216061)****
