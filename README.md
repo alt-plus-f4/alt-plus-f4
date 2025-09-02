@@ -15,9 +15,7 @@
 ![](https://komarev.com/ghpvc/?username=alt-plus-f4&style=for-the-badge)
 
 <p align="center">
-  I'm a bulgarian programmer<br>
-  <i>Currently:</i> Student at Technological school "Electronic systems" associated with the Technical University of Sofia
-</p>
+  I code
 
 <h2 align="center">💻 Currently Working On</h2>
 
