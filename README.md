@@ -48,7 +48,7 @@
 <h2 align="center">About Me⚡</h2>
 
 <p align="center">
-  I'm a high-school student living in Sofia, Bulgaria. I love to read, enjoy music, and explore nature outdoors.
+   lvl 10 faceit 
   <br>
   <a href="https://assenov.me">Check out my Portfolio page</a>
   <br>
