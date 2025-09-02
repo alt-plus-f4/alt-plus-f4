@@ -15,8 +15,6 @@
 ![](https://komarev.com/ghpvc/?username=alt-plus-f4&style=for-the-badge)
 
 <p align="center">
-  I code
-
 <h2 align="center">💻 Currently Working On</h2>
 
 <p align="center">
