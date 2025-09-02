@@ -50,9 +50,9 @@
 <p align="center">
    lvl 10 faceit 
   <br>
-  <a href="https://assenov.me">Check out my Portfolio page</a>
+  <a href="https://assenov.me">Portfolio</a>
   <br>
-  <a>Write to me: valentin@asenov.dev</a>
+  <a>valentin@asenov.dev</a>
 </p>
 
 <h2 align="center">📫 How to reach me:</h2>
