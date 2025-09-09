@@ -44,7 +44,9 @@
 </p>
 
 <h2 align="center">About Me⚡</h2>
-lvl 10 faceit
+<p align="center">
+  lvl 10 faceit
+</p>
 <p align="center">
   <br>
   <a href="https://assenov.me">Portfolio</a>
