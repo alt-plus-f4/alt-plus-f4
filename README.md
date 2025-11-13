@@ -14,7 +14,7 @@
 
 ![](https://komarev.com/ghpvc/?username=alt-plus-f4&style=for-the-badge)
 
-<p align="center">
+<!-- <p align="center">
 <h2 align="center">💻 Currently Working On</h2>
 
 <p align="center">
@@ -25,7 +25,7 @@
   <a href="https://github.com/alt-plus-f4/tournler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alt-plus-f4&repo=tournler" alt="GitHub Stats" />
   </a>
-</p>
+</p> -->
 
 <h2 align="center">👀 Stats</h2>
 
@@ -45,7 +45,7 @@
 
 <h2 align="center">About Me⚡</h2>
 <p align="center">
-  lvl 10 faceit
+  lvl 10 faceit (was)
 </p>
 <p align="center">
   <br>
